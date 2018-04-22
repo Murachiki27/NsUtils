@@ -1,0 +1,21 @@
+[
+  {
+    "modid" : "nsutils",
+    "name" : "Ns Utils",
+    "version" : "${version}",
+    "url" : "",
+    "credits" : "",
+    "authorList": [
+      "Murachiki27"
+    ],
+    "description": "This mod is Ns' Util library.",
+    "logoFile" : "nsutils_logo.png",
+    "updateUrl" : "",
+    "parent" : "",
+    "screenshots": [
+    ],
+    "dependencies": [
+      "Forge"
+    ]
+  }
+]
